@@ -4,15 +4,6 @@
 Before running the project, ensure you have the following installed:
 - Python (>=3.8)
 - Required libraries: 
-  - `pandas`
-  - `numpy`
-  - `scikit-learn`
-  - `lightgbm`
-  - `tensorflow`
-  - `matplotlib`
-  - `seaborn`
-  - `imbalanced-learn`
-  - `xgboost`
   
 ## Steps to Run the Project
 
